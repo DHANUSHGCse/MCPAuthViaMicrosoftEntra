@@ -2,7 +2,7 @@
 
 > Connect **Claude.ai remote MCP servers** to your private network using **Microsoft Entra ID (Azure AD)** OAuth 2.0 — with support for multiple MCP servers each backed by their own Entra application.
 
-📖 **Full illustrated guide:** open [`mcp-oauth-blog.html`](./mcp-oauth-blog.html) in your browser — covers the OAuth 2.0 primer, Claude's discovery fallback chain, sequence diagrams, and all proxy logic explained step by step with reference links to every RFC.
+📖 **Full illustrated guide:** open https://dhanushgcse.github.io/MCPAuthViaMicrosoftEntra/ this link — covers the OAuth 2.0 primer, Claude's discovery fallback chain, sequence diagrams, and all proxy logic explained step by step with reference links to every RFC.
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776ab?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
